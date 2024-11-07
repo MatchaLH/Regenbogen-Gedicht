@@ -2,8 +2,7 @@ Die Farben des Regenbogens
 Rot
 Blau
 Gelb
-Grün
+Violett
 Orange
 
-
-Hello from remote
+Dies ist ein super Gedicht.
